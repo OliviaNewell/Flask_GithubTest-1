@@ -20,7 +20,7 @@ def stocks():
 
 @app.route('/stocks')
 def team2m2():
-    print("Olivia Newell")
+    print("Olivia Newelll")
     
 
 if __name__ == "__main__": app.run(debug=True)
